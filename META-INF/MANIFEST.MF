@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: . APPJeauge_lib/BumperSticker.jar APPJeauge_lib/commons-ne
+ t-3.5.jar APPJeauge_lib/JCalendar.jar APPJeauge_lib/jCircularGauges-2
+ .0.1.jar APPJeauge_lib/jdatepicker-1.3.4.jar APPJeauge_lib/jgoodies-f
+ orms-1.8.0.jar APPJeauge_lib/jgoodies-forms-1.8.0-sources.jar APPJeau
+ ge_lib/miglayout15-swing.jar APPJeauge_lib/sqlite-jdbc-3.34.0.jar
+Main-Class: shell.sijoumi.etatcuve.Cuve
+
